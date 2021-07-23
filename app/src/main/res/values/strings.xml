@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DatePickerTest</string>
+    <string name="filter_name">filter</string>
+    <string name="booking_activity">Meeting Booker</string>
+    <string name="chose_date">Click to chose a date</string>
+    <string name="chose_hour">Click to chose an hour</string>
+    <string name="chose_mail">Type the name of colleagues</string>
+    <string name="chose_place">Chose the meeting room</string>
+    <string name="book_meeting">Book</string>
+    <string name="type_subject">Type the meeting subject</string>
+    <string name="chose_duration">Click to chose a duration</string>
+</resources>
